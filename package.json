@@ -1,5 +1,5 @@
 {
-	"name": "cf-warp",
+	"name": "cf-warp-bin",
 	"version": "1.2.4",
 	"main": "index.js",
 	"license": "MIT",
